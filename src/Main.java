@@ -21,11 +21,9 @@ public class Main {
         y.b = sc.nextDouble();
         y.c = sc.nextDouble();
 
-        double aP = (x.a + x.b + x.c) / 2;
-        double areaX = Math.sqrt(aP * (aP - x.a) * (aP - x.b) * (aP - x.c));
+        double areaX = x.area();
 
-        double yP = (y.a + y.b + y.c) / 2;
-        double areaY = Math.sqrt(yP * (yP - y.a) * (yP - y.b) * (yP - y.c));
+        double areaY = y.area();
 
         System.out.printf("Area do triangulo X: %.4f%n", areaX);
         System.out.printf("Area do triangulo Y: %.4f%n", areaY);
