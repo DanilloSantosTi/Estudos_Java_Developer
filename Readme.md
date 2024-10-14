@@ -12,5 +12,7 @@
 
 [Exercício com orientação a objetos(Final)](https://github.com/DanilloSantosTi/Estudos_Java_Developer/tree/feature/exercise_OOP)
 
+[Exercício com orientação a objetos(membros estáticos)](https://github.com/DanilloSantosTi/Estudos_Java_Developer/tree/feature/static_members_OOP)
+
 
 
