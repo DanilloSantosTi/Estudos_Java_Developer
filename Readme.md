@@ -14,5 +14,7 @@
 
 [Exercício com orientação a objetos(membros estáticos)](https://github.com/DanilloSantosTi/Estudos_Java_Developer/tree/feature/static_members_OOP)
 
+[Exercício com orientação a objetos(membros estáticos final)](https://github.com/DanilloSantosTi/Estudos_Java_Developer/tree/feature/dolar_converter)
+
 
 
